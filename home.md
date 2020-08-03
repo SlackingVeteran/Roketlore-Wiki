@@ -1,8 +1,8 @@
 ---
-title: Home of Rocket Arena Lores and Easter Eggs
+title: Home of Rocket Arena Lores
 description: Wiki Home for all Rocket Arena Lore, Hidden Details and Easter Eggs
 published: true
-date: 2020-07-31T17:12:36.451Z
+date: 2020-08-03T15:54:17.332Z
 tags: 
 editor: markdown
 ---
