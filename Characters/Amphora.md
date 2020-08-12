@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T12:51:55.609Z
+date: 2020-08-12T13:06:38.034Z
 tags: 
 editor: markdown
 ---
@@ -12,7 +12,12 @@ padding: 0.2em;">
   <table class="infobox character">
   	<tbody>
     	<tr><td colspan="2" style="text-align: center;">Amphora</td></tr>
-    	<tr><td>Test</td><td>Test2</td></tr>
+      <tr><td>Crater Region</td><td>Crystal Reef</td></tr>
+    	<tr><td>Health</td><td>140</td></tr>
+      <tr><td>DMG Per Shot</td><td>40</td></tr>
+      <tr><td>Uncharged Shot</td><td>20</td></tr>
+      <tr><td>Secondary</td><td>30</td></tr>
+      <tr><td>Special</td><td>39</td></tr>
   	</tbody>
 	</table>
 </div>
