@@ -2,25 +2,26 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T12:34:25.156Z
+date: 2020-08-12T12:40:55.601Z
 tags: 
 editor: markdown
 ---
 
-<div>
-<h1> Background </h1>
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis auctor elit sed vulputate.
-
-</div>
-
-<div>
+<div style="float: right; margin: 0.5em 0 0.5em 1em;
+padding: 0.2em;">
   <table>
   	<tbody>
     	<tr><td colspan="2" style="text-align: center;">Amphora</td></tr>
     	<tr><td>Test</td><td>Test2</td></tr>
   	</tbody>
 	</table>
+</div>
+
+<div>
+<h1> Background </h1>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis auctor elit sed vulputate.
+
 </div>
 
 <div>
