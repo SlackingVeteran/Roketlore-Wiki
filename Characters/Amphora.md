@@ -2,14 +2,14 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T12:40:55.601Z
+date: 2020-08-12T12:51:55.609Z
 tags: 
 editor: markdown
 ---
 
 <div style="float: right; margin: 0.5em 0 0.5em 1em;
 padding: 0.2em;">
-  <table>
+  <table class="infobox character">
   	<tbody>
     	<tr><td colspan="2" style="text-align: center;">Amphora</td></tr>
     	<tr><td>Test</td><td>Test2</td></tr>
