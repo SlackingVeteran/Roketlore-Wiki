@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T13:17:12.904Z
+date: 2020-08-12T13:17:32.594Z
 tags: 
 editor: markdown
 ---
@@ -21,8 +21,6 @@ editor: markdown
 	</table>
 </div>
 <div>
-
-# Background
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis auctor elit sed vulputate.
   
 # Story
