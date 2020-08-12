@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T14:00:18.734Z
+date: 2020-08-12T14:05:21.219Z
 tags: 
 editor: markdown
 ---
@@ -28,7 +28,9 @@ editor: markdown
   </div>
 </div>
 
-## Story
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet nulla malesuada pellentesque elit eget. Pretium fusce id velit ut tortor pretium viverra suspendisse. Neque sodales ut etiam sit amet nisl. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Sed turpis tincidunt id aliquet risus.
+<div>
+  <h2>Story</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet nulla malesuada pellentesque elit eget. Pretium fusce id velit ut tortor pretium viverra suspendisse. Neque sodales ut etiam sit amet nisl. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Sed turpis tincidunt id aliquet risus.</p>
 
-Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Maecenas pharetra convallis posuere morbi leo urna. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nulla malesuada pellentesque elit eget gravida. Tortor at risus viverra adipiscing at in. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum.
+  <p>Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Maecenas pharetra convallis posuere morbi leo urna. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nulla malesuada pellentesque elit eget gravida. Tortor at risus viverra adipiscing at in. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum.</p>
+</div>
