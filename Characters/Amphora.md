@@ -2,11 +2,13 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T13:34:37.208Z
+date: 2020-08-12T13:39:36.284Z
 tags: 
 editor: markdown
 ---
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam donec adipiscing tristique risus nec feugiat in fermentum posuere. Sit amet consectetur adipiscing elit ut aliquam purus. Sed egestas egestas fringilla phasellus. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. In hac habitasse platea dictumst quisque sagittis. Eros in cursus turpis massa. Sollicitudin tempor id eu nisl nunc mi ipsum
+  
 <div style="float: right;">
   <table class="infobox character">
   	<tbody>
@@ -22,8 +24,7 @@ editor: markdown
 	</table>
 </div>
 <div>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam donec adipiscing tristique risus nec feugiat in fermentum posuere. Sit amet consectetur adipiscing elit ut aliquam purus. Sed egestas egestas fringilla phasellus. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. In hac habitasse platea dictumst quisque sagittis. Eros in cursus turpis massa. Sollicitudin tempor id eu nisl nunc mi ipsum
-  
+
 ## Story
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet nulla malesuada pellentesque elit eget. Pretium fusce id velit ut tortor pretium viverra suspendisse. Neque sodales ut etiam sit amet nisl. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Sed turpis tincidunt id aliquet risus.
 
