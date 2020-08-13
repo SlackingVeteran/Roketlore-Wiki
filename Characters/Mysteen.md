@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-13T20:43:38.753Z
+date: 2020-08-13T21:09:40.600Z
 tags: 
 editor: markdown
 ---
@@ -23,10 +23,10 @@ editor: markdown
   </table>
 </div>
 <div>
-  <p>Mysteen is a mystical Illusionist who uses the art of misdirection and slight of hand to take center stage from the competition to awe the audience. She's equipped with rocket-cards that have a 3 round burst on every third consecutive shot, a Mirror-shield that protects againsts enemy rockets, and a Phantasm-double that mimics her actions which also can swap places with its owner indefinitely during its duration.</p>
+  <p>Mysteen is a mystical Illusionist who uses the art of misdirection and slight of hand to take center stage from the competition that awes the audience. She's equipped with rocket-cards that have a 3 round burst on every third consecutive shot, a mirror-shield that protects againsts enemy rockets, and a phantasm-double that mimics her actions which also can swap places with its owner indefinitely during its duration.</p>
 </div>
 <div>
   <h2>Story</h2>
-  <p>Amphora was born in an underwater world full of submarines and shimmering stones known as Crystal Reef. She was raised by her indulgent parents and their fellow scientists. Her ability to turn into liquid being is a mystery to herself. Growing up next to mysterious Star of Crater might have something to do with her abilities.</p>
-  <p>Once you get past her glam and glitter, you will discover that she is sharp minded and a penchant of painful puns. Amphora is a explorer who wants to learn the origin and secrets of the Star of Crater and understand more about its mysterious glowing energy which could maybe reveal how she came to have the ability to turn into watery sea creature</p>
+  <p>There's not much known about the mysterious Miss Mavarak. Enigmatic indeed, her background seems to hold many secrets.. Some spectators say that if you pay close attention to Miss Mavvy's performances you may uncover a thing or two; but shhhh keep it on the hush hush, Sugar...</p>
+  <p>;3</p>
 </div>
