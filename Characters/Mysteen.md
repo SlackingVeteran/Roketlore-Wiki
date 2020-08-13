@@ -2,12 +2,12 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-13T19:37:54.903Z
+date: 2020-08-13T20:11:06.913Z
 tags: 
 editor: markdown
 ---
 
-<div class="title-quote">I like to make waves wherever I can</div>
+<div class="title-quote">There's nothing up my sleeves.. except for some ROCKETS!</div>
 <div style="float: right;">
   <table class="infobox character">
     <tbody>
@@ -23,7 +23,7 @@ editor: markdown
   </table>
 </div>
 <div>
-  <p>Amphora is a fast and fluid striker who chases her opponents and launches them out of the arena in a powerful cyclone. She is pride of Crystal Reef colony. Her rockets harnesses the power of water using her special "Diver Weapon".</p>
+  <p>Mysteen is a mystical Illusionist who uses the art of misdirection and slight of hand to take center stage from the competition to awe the audience. She's equipped with rocket-cards that have a 3 round burst on every third consecutive shot, a Mirror-shield that protects againsts enemy rockets, and a Phantasm-double that mimics her actions which also can swap places with its owner indefinitely during its duration.</p>
 </div>
 <div>
   <h2>Story</h2>
