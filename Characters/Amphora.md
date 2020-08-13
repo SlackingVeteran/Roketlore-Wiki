@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T14:04:48.247Z
+date: 2020-08-13T14:13:41.905Z
 tags: 
 editor: markdown
 ---
@@ -12,6 +12,7 @@ editor: markdown
     <tbody>
       <tr><td colspan="2" style="text-align: center;">Amphora</td></tr>
       <tr style="line-height: 0em;"><td colspan="2" style="padding: 0;"><img src="/amph-transparent.png" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
+      <tr><td class="group" colspan="2" style="text-align: center;">Game Info</td></tr>
       <tr><td>Crater Region</td><td>Crystal Reef</td></tr>
       <tr><td>Health</td><td>140</td></tr>
       <tr><td>DMG Per Shot</td><td>40</td></tr>
