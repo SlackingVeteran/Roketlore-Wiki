@@ -2,11 +2,12 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T18:19:15.729Z
+date: 2020-08-13T18:29:05.111Z
 tags: 
 editor: markdown
 ---
 
+<div class="title-quote" style="text-align: center; font-style: italic;">I like to make waves wherever I can</div>
 <div style="float: right;">
   <table class="infobox character">
     <tbody>
@@ -27,6 +28,6 @@ editor: markdown
 </div>
 <div>
   <h2>Story</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id diam vel quam elementum pulvinar etiam non quam. Imperdiet nulla malesuada pellentesque elit eget. Pretium fusce id velit ut tortor pretium viverra suspendisse. Neque sodales ut etiam sit amet nisl. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Sed turpis tincidunt id aliquet risus.</p>
+  <p>Amphora was born in an underwater world full of submarines and shimmering stones known as Crystal Reef. She was raised by her indulgent parents and their fellow scientists. Her ability to turn into </p>
   <p>Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Maecenas pharetra convallis posuere morbi leo urna. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nulla malesuada pellentesque elit eget gravida. Tortor at risus viverra adipiscing at in. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum.</p>
 </div>
