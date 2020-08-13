@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T14:32:38.694Z
+date: 2020-08-13T14:47:52.625Z
 tags: 
 editor: markdown
 ---
@@ -10,10 +10,10 @@ editor: markdown
 <div style="float: right;">
   <table class="infobox character">
     <tbody>
-      <tr><td class="group charname" colspan="2" style="text-align: center;">Amphora</td></tr>
-      <tr style="line-height: 0em;"><td colspan="2" style="padding: 0;"><img src="/amph-transparent.png" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
-      <tr><td class="group" colspan="2">Game Info</td></tr>
-      <tr class="charbody"><td>HP</td><td>DMG Per Shot</td><td>Uncharged Shot</td><td>Secondary</td><td>Special</td>
+      <tr><td class="group charname" colspan="5" style="text-align: center;">Amphora</td></tr>
+      <tr style="line-height: 0em; text-align: center;"><td colspan="5"><img src="/amph-transparent.png" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
+      <tr><td class="group" colspan="5">Game Info</td></tr>
+      <tr class="charbody"><td>HP</td><td>Charged (DMG)</td><td>Unharged (DMG)</td><td>Secondary</td><td>Special</td>
     </tbody>
   </table>
 </div>
