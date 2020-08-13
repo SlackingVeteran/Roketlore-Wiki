@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-13T21:09:40.600Z
+date: 2020-08-13T22:00:46.800Z
 tags: 
 editor: markdown
 ---
@@ -14,7 +14,7 @@ editor: markdown
       <tr><td class="group charname" colspan="2">Mysteen</td></tr>
       <tr class="charimg"><td colspan="2"><img src="/mysteen-transparent.png" alt="mysteen-transparent.png" width="250px"></td></tr>
       <tr><td class="group" colspan="2">Game Info</td></tr>
-      <tr class="charbody"><td class="charkey">Crater Region</td><td class="charvalue">Currently unknown</td></tr>
+      <tr class="charbody"><td class="charkey">Crater Region</td><td class="charvalue">Conjura</td></tr>
       <tr class="charbody"><td class="charkey">Health</td><td class="charvalue">140/80(clone)</td></tr>
       <tr class="charbody"><td class="charkey">DMG</td><td class="charvalue">20/40(3rd shot)</td></tr>
       <tr class="charbody"><td class="charkey">Secondary</td><td class="charvalue">25 HP</td></tr>
@@ -27,6 +27,6 @@ editor: markdown
 </div>
 <div>
   <h2>Story</h2>
-  <p>There's not much known about the mysterious Miss Mavarak. Enigmatic indeed, her background seems to hold many secrets.. Some spectators say that if you pay close attention to Miss Mavvy's performances you may uncover a thing or two; but shhhh keep it on the hush hush, Sugar...</p>
+  <p>There's not much known about the mysterious Miss Mavarak. Enigmatic indeed, from the region of Conjura, her motive for joining the tour is left in secrecy.. Some spectators say that if you pay close attention to Miss Mavvy's performances you may uncover a thing or two; but shhhh keep it on the hush hush, Sugar...</p>
   <p>;3</p>
 </div>
