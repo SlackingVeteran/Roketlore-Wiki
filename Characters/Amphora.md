@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T14:47:52.625Z
+date: 2020-08-13T14:53:31.184Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,12 @@ editor: markdown
       <tr><td class="group charname" colspan="5" style="text-align: center;">Amphora</td></tr>
       <tr style="line-height: 0em; text-align: center;"><td colspan="5"><img src="/amph-transparent.png" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
       <tr><td class="group" colspan="5">Game Info</td></tr>
-      <tr class="charbody"><td>HP</td><td>Charged (DMG)</td><td>Unharged (DMG)</td><td>Secondary</td><td>Special</td>
+      <tr class="charbody"><td>Crater Region</td><td>Crystal Reef</td></tr>
+      <tr class="charbody"><td>Health</td><td>140</td></tr>
+      <tr class="charbody"><td>Charged (DMG)</td><td>40</td></tr>
+      <tr class="charbody"><td>Unharged (DMG)</td><td>20</td></tr>
+      <tr class="charbody"><td>Secondary</td><td>30</td></tr>
+      <tr class="charbody"><td>Special</td><td>39</td></tr>
     </tbody>
   </table>
 </div>
