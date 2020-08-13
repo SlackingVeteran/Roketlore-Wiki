@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T18:30:32.135Z
+date: 2020-08-13T19:05:36.804Z
 tags: 
 editor: markdown
 ---
@@ -28,6 +28,6 @@ editor: markdown
 </div>
 <div>
   <h2>Story</h2>
-  <p>Amphora was born in an underwater world full of submarines and shimmering stones known as Crystal Reef. She was raised by her indulgent parents and their fellow scientists. Her ability to turn into </p>
-  <p>Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Maecenas pharetra convallis posuere morbi leo urna. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nulla malesuada pellentesque elit eget gravida. Tortor at risus viverra adipiscing at in. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum.</p>
+  <p>Amphora was born in an underwater world full of submarines and shimmering stones known as Crystal Reef. She was raised by her indulgent parents and their fellow scientists. Her ability to turn into liquid being is a mystery to herself. Growing up next to mysterious Star of Crater might have something to do with her abilities.</p>
+  <p>Once you get past her glam and glitter, you will discover that she is sharp minded and a penchant of painful puns. Amphora is a explorer who wants to learn the origin and secrets of the Star of Crater and understand more about its mysterious glowing energy which could maybe reveal how she came to have the ability to turn into watery sea creature</p>
 </div>
