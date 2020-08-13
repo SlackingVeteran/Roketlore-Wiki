@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T19:05:36.804Z
+date: 2020-08-13T19:09:40.252Z
 tags: 
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
   </table>
 </div>
 <div>
-  <p>Amphora is a fast and fluid striker who chases her opponents and launches them out of the arena in a powerful cyclone. She is pride of Crystal Reef colony. Her rockets harnesses the power of water using her special "Diver Weapon"</p>
+  <p>Amphora is a fast and fluid striker who chases her opponents and launches them out of the arena in a powerful cyclone. She is pride of Crystal Reef colony. Her rockets harnesses the power of water using her special "Diver Weapon".</p>
 </div>
 <div>
   <h2>Story</h2>
