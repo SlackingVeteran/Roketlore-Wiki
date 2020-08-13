@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-13T22:00:46.800Z
+date: 2020-08-13T22:59:14.093Z
 tags: 
 editor: markdown
 ---
@@ -28,5 +28,4 @@ editor: markdown
 <div>
   <h2>Story</h2>
   <p>There's not much known about the mysterious Miss Mavarak. Enigmatic indeed, from the region of Conjura, her motive for joining the tour is left in secrecy.. Some spectators say that if you pay close attention to Miss Mavvy's performances you may uncover a thing or two; but shhhh keep it on the hush hush, Sugar...</p>
-  <p>;3</p>
 </div>
