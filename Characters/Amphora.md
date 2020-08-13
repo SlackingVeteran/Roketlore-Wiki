@@ -2,12 +2,12 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T18:29:05.111Z
+date: 2020-08-13T18:30:32.135Z
 tags: 
 editor: markdown
 ---
 
-<div class="title-quote" style="text-align: center; font-style: italic;">I like to make waves wherever I can</div>
+<div class="title-quote">I like to make waves wherever I can</div>
 <div style="float: right;">
   <table class="infobox character">
     <tbody>
