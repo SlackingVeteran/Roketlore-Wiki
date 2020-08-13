@@ -1,8 +1,8 @@
 ---
 title: Amphora
-description: 
+description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-13T19:09:40.252Z
+date: 2020-08-13T19:17:55.613Z
 tags: 
 editor: markdown
 ---
