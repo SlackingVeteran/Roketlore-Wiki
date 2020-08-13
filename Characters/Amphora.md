@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-12T14:24:58.524Z
+date: 2020-08-13T01:57:06.834Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 <div style="float: right;">
   <table class="infobox character">
     <tbody>
-      <tr><td colspan="2" style="padding: 0;"><img src="/ra-characters-amphora.jpg" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
+      <tr><td colspan="2" style="padding: 0;"><img src="/amph-transparent.png" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
       <tr><td colspan="2" style="text-align: center;">Amphora</td></tr>
       <tr><td>Crater Region</td><td>Crystal Reef</td></tr>
       <tr><td>Health</td><td>140</td></tr>
