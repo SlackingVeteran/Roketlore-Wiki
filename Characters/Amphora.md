@@ -2,7 +2,7 @@
 title: Amphora
 description: 
 published: true
-date: 2020-08-13T15:05:22.343Z
+date: 2020-08-13T15:06:43.009Z
 tags: 
 editor: markdown
 ---
@@ -13,12 +13,12 @@ editor: markdown
       <tr><td class="group charname" colspan="2">Amphora</td></tr>
       <tr style="line-height: 0em; text-align: center;"><td colspan="2"><img src="/amph-transparent.png" alt="ra-characters-amphora.jpg" width="250px"></td></tr>
       <tr><td class="group" colspan="2">Game Info</td></tr>
-      <tr class="charbody"><td>Crater Region</td><td class="value">Crystal Reef</td></tr>
-      <tr class="charbody"><td>Health</td><td class="value">140</td></tr>
-      <tr class="charbody"><td>Charged (DMG)</td><td class="value">40</td></tr>
-      <tr class="charbody"><td>Unharged (DMG)</td><td class="value">20</td></tr>
-      <tr class="charbody"><td>Secondary</td><td class="value">30</td></tr>
-      <tr class="charbody"><td>Special</td><td class="value">39</td></tr>
+      <tr class="charbody"><td>Crater Region</td><td class="charvalue">Crystal Reef</td></tr>
+      <tr class="charbody"><td>Health</td><td class="charvalue">140</td></tr>
+      <tr class="charbody"><td>Charged (DMG)</td><td class="charvalue">40</td></tr>
+      <tr class="charbody"><td>Unharged (DMG)</td><td class="charvalue">20</td></tr>
+      <tr class="charbody"><td>Secondary</td><td class="charvalue">30</td></tr>
+      <tr class="charbody"><td>Special</td><td class="charvalue">39</td></tr>
     </tbody>
   </table>
 </div>
