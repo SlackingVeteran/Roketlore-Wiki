@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-14T04:17:58.908Z
+date: 2020-08-14T05:14:35.567Z
 tags: 
 editor: markdown
 ---
@@ -12,7 +12,11 @@ editor: markdown
   <table class="infobox character">
     <tbody>
       <tr><td class="group charname" colspan="2">Mysteen</td></tr>
-      <tr class="charimg"><td colspan="2"><img src="/mysteen-transparent.png" alt="mysteen-transparent.png" width="250px"></td></tr>
+       <tr class="charimg"><td colspan="2">
+        <a class="spotlight" href="/mysteen_full_model.png">
+          <img src="/mysteen_full_model.png" width="250px">
+        </a>
+      </td></tr>
       <tr><td class="group" colspan="2">Game Info</td></tr>
       <tr class="charbody"><td class="charkey">Crater Region</td><td class="charvalue">Conjura</td></tr>
       <tr class="charbody"><td class="charkey">Health</td><td class="charvalue">140/80 (clone)</td></tr>
