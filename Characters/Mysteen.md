@@ -2,12 +2,12 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-14T05:14:35.567Z
+date: 2020-08-14T18:28:20.006Z
 tags: 
 editor: markdown
 ---
 
-<div class="title-quote">There's nothing up my sleeves.. except for some ROCKETS!</div>
+<div class="title-quote">I've got nothing up my sleeves.. except for some ROCKETS!</div>
 <div>
   <table class="infobox character">
     <tbody>
