@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-13T22:59:14.093Z
+date: 2020-08-14T00:03:13.205Z
 tags: 
 editor: markdown
 ---
@@ -15,8 +15,8 @@ editor: markdown
       <tr class="charimg"><td colspan="2"><img src="/mysteen-transparent.png" alt="mysteen-transparent.png" width="250px"></td></tr>
       <tr><td class="group" colspan="2">Game Info</td></tr>
       <tr class="charbody"><td class="charkey">Crater Region</td><td class="charvalue">Conjura</td></tr>
-      <tr class="charbody"><td class="charkey">Health</td><td class="charvalue">140/80(clone)</td></tr>
-      <tr class="charbody"><td class="charkey">DMG</td><td class="charvalue">20/40(3rd shot)</td></tr>
+      <tr class="charbody"><td class="charkey">Health</td><td class="charvalue">140/80 (clone)</td></tr>
+      <tr class="charbody"><td class="charkey">DMG</td><td class="charvalue">20/40 (3rd shot)</td></tr>
       <tr class="charbody"><td class="charkey">Secondary</td><td class="charvalue">25 HP</td></tr>
       <tr class="charbody"><td class="charkey">Special</td><td class="charvalue">8 (clone dmg per shot avg.)</td></tr>
     </tbody>
