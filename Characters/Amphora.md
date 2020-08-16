@@ -2,7 +2,7 @@
 title: Amphora
 description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-14T05:13:04.254Z
+date: 2020-08-16T19:30:43.086Z
 tags: 
 editor: markdown
 ---
@@ -14,8 +14,8 @@ editor: markdown
     <tbody>
       <tr><td class="group charname" colspan="2">Amphora</td></tr>
       <tr class="charimg"><td colspan="2">
-        <a class="spotlight" href="/amphora_full_model.png">
-          <img src="/amphora_full_model.png" width="250px">
+        <a class="spotlight" href="/characters/amphora/amphora_full_model.png">
+          <img src="/characters/amphora/amphora_full_model.png" width="250px">
         </a>
       </td></tr>
       <tr><td class="group" colspan="2">Game Info</td></tr>
