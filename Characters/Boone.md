@@ -2,7 +2,7 @@
 title: Boone
 description: Crater's Premier Megadon Tracker
 published: true
-date: 2020-08-17T05:51:59.272Z
+date: 2020-08-17T05:53:55.493Z
 tags: 
 editor: markdown
 ---
@@ -39,7 +39,7 @@ editor: markdown
 <!-- DO NOT TOUCH THE GALLERY, CONTACT SlackingVeteren IF YOU NEED TO CHANGE ANYTHING -->
 <div>
   <h2>Gallery</h2>
-  
+  <br>
   <div class="carousel slide" id="carouselIndicators" data-ride="carousel" data-interval="0">
     <ol class="carousel-indicators">
       <li class="carousel-indicators-list active" data-target="#carouselIndicators" data-slide-to="0"></li>
