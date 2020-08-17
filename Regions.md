@@ -1,8 +1,8 @@
 ---
-title: Crater Regionsa
+title: Crater Regions
 description: Get to know lore, hidden easter eggs and story behind various maps in diverse regions of The World of Crater
 published: true
-date: 2020-08-17T22:00:13.645Z
+date: 2020-08-17T22:00:54.937Z
 tags: 
 editor: markdown
 ---
