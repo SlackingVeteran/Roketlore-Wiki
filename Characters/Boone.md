@@ -2,14 +2,12 @@
 title: Boone
 description: Crater's Premier Megadon Tracker
 published: true
-date: 2020-08-17T06:27:55.439Z
+date: 2020-08-17T06:30:24.821Z
 tags: 
 editor: markdown
 ---
 
-<br>
 <div class="title-quote">Is it Megadons or Megadonnies? Never was sure.</div>
-<br>
 <div>
   <table class="infobox character">
     <tbody>
