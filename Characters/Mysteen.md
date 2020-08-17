@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-17T23:23:53.555Z
+date: 2020-08-17T23:25:44.026Z
 tags: 
 editor: markdown
 ---
@@ -61,7 +61,7 @@ editor: markdown
 
 <!-- Begin Character Intro -->
 <div>
-  <p>Boone and his winged pal Zik are on a quest to find a Megadon – an extinct, or at least elusive, prehistoric creature. He is crater's premier Megadon tracker. His pal Zik gives him special ability to create a vortex by lending his wings.</p>
+  <p>Mysteen is a mystical Illusionist who uses the art of misdirection and slight of hand to take center stage from the competition that awes the audience. She's equipped with rocket-cards that have a 3 round burst on every third consecutive shot, a mirror-shield that protects againsts enemy rockets, and a phantasm-double that mimics her actions which also can swap places with its owner indefinitely during its duration.</p>
 </div>
 <!-- End Character Intro -->
 
@@ -70,7 +70,7 @@ editor: markdown
 <!-- Begin Character Story -->
 <div>
   <h2>Story</h2>
-    <p>Boone Kayo lives in his outpost overlooking The Wilds at Stompy's Refuge. Him and his pal Zik are on a quest to find a Megadon. Megadons are extinct, or at least elusive, prehistoric creature. His great great grandfather was the last person to see one alive, so every generation have gone hunting for another. This trend has made the Kayo name legendary and a punch line in the wild, wild Wilds. Boone is expert tracker in many ways but he doesnt know that his pal Zik is tiny little version of the Megadon he seeks.</p>
+    <p>There's not much known about the mysterious Miss Mavarak. Enigmatic indeed, from the region of Conjura, her motive for joining the tour is left in secrecy.. Some spectators say that if you pay close attention to Miss Mavvy's performances you may uncover a thing or two; but shhhh keep it on the hush hush, Sugar...</p>
 </div>
 <!-- End Character Story -->
 
@@ -78,6 +78,7 @@ editor: markdown
 
 <!-- Begin Gallery -->
 <!-- DO NOT TOUCH THE GALLERY, CONTACT SlackingVeteren IF YOU NEED TO CHANGE ANYTHING -->
+<!--
 <div>
   <h2>Gallery</h2>
   <br>
@@ -119,4 +120,5 @@ editor: markdown
     </a>
   </div>
 </div>
+-->
 <!-- End Gallary -->
