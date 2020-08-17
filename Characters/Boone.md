@@ -2,7 +2,7 @@
 title: Boone
 description: Crater's Premier Megadon Tracker
 published: true
-date: 2020-08-17T01:26:39.823Z
+date: 2020-08-17T04:26:02.388Z
 tags: 
 editor: markdown
 ---
@@ -37,4 +37,22 @@ editor: markdown
 <br>
 <div>
   <h2>Gallery</h2>
+  <div class="carousel slide" id="carouselIndicators" data-ride="carousel" data-interval="0">
+    <ol class="carousel-indicators">
+        <li class="active" data-target="#carouselIndicators" data-slide-to="0"></li>
+        <li data-target="#carouselIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active"><img class="d-block w-100" src="/characters/boone/boone_full_model.png"
+                width="300" />
+      <div class="carousel-caption">
+            Boone with Ol' Granpappy
+          </div></div>
+        <div class="carousel-item"><img class="d-block w-100" src="/characters/boone/boone_full_model.png"
+                width="300" /></div>
+        <div class="carousel-item"><img class="d-block w-100" src="/characters/boone/boone_full_model.png"
+                width="300" /></div>
+    </div><a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carouselIndicators"
+        role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a></div>
 <div>
