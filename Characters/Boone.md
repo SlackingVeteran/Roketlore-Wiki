@@ -2,7 +2,7 @@
 title: Boone
 description: Crater's Premier Megadon Tracker
 published: true
-date: 2020-08-17T05:21:29.912Z
+date: 2020-08-17T05:23:32.087Z
 tags: 
 editor: markdown
 ---
@@ -35,6 +35,8 @@ editor: markdown
     <p>Boone Kayo lives in his outpost overlooking The Wilds at Stompy's Refuge. Him and his pal Zik are on a quest to find a Megadon. Megadons are extinct, or at least elusive, prehistoric creature. His great great grandfather was the last person to see one alive, so every generation have gone hunting for another. This trend has made the Kayo name legendary and a punch line in the wild, wild Wilds. Boone is expert tracker in many ways but he doesnt know that his pal Zik is tiny little version of the Megadon he seeks.</p>
 </div>
 <br>
+
+<!-- DO NOT TOUCH THE GALLERY, CONTACT SlackingVeteren IF YOU NEED TO CHANGE ANYTHING -->
 <div>
   <h2>Gallery</h2>
   <div class="carousel slide" id="carouselIndicators" data-ride="carousel" data-interval="0">
@@ -55,3 +57,5 @@ editor: markdown
           </div></div>
     </div><a class="carousel-control-prev" data-target="#carouselIndicators" role="button" data-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" data-target="#carouselIndicators"
         role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a></div>
+  
+<!-- END OF GALLERY -->
