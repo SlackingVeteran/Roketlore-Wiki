@@ -2,11 +2,10 @@
 title: Amphora
 description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-16T19:32:29.002Z
+date: 2020-08-17T22:21:10.249Z
 tags: 
 editor: markdown
 ---
-
 
 <div class="title-quote">I like to make waves wherever I can</div>
 <div>
