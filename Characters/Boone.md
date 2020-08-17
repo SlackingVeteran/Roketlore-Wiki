@@ -2,40 +2,81 @@
 title: Boone
 description: Crater's Premier Megadon Tracker
 published: true
-date: 2020-08-17T06:40:25.607Z
+date: 2020-08-17T22:18:32.308Z
 tags: 
 editor: markdown
 ---
 
-<div class="title-quote">Is it Megadons or Megadonnies? Never was sure.</div>
+<!-- Begin Character Quote -->
+<div class="title-quote">
+  Is it Megadons or Megadonnies? Never was sure.
+</div>
+<!-- End Character Quote -->
+
+<!-- Begin Character Info Card -->
 <div>
   <table class="infobox character">
     <tbody>
-      <tr><td class="group charname" colspan="2">Boone</td></tr>
-      <tr class="charimg"><td colspan="2">
-        <a class="spotlight" href="/characters/boone/boone_full_model.png">
-          <img src="/characters/boone/boone_full_model-thumb.png" width="250px">
-        </a>
-      </td></tr>
-      <tr><td class="group" colspan="2">Game Info</td></tr>
-      <tr class="charbody"><td class="charkey">Crater Region</td><td class="charvalue">The Wilds</td></tr>
-      <tr class="charbody"><td class="charkey">Health</td><td class="charvalue">140</td></tr>
-      <tr class="charbody"><td class="charkey">Shotgun (DMG)</td><td class="charvalue">45</td></tr>
-      <tr class="charbody"><td class="charkey">Sniper (DMG)</td><td class="charvalue">30</td></tr>
-      <tr class="charbody"><td class="charkey">Special (DMG)</td><td class="charvalue">5</td></tr>
+      <tr>
+        <td class="group charname" colspan="2">Boone</td>
+      </tr>
+      <tr class="charimg">
+        <td colspan="2">
+          <!-- href link to full size image of the character -->
+          <!-- link format /characters/name/name_full_model.png -->
+          <!-- They are already uploaded to the server -->
+          <a class="spotlight" href="/characters/boone/boone_full_model.png">
+            <!-- Always use 250x250 thumbnail for img src -->
+            <!-- src format /characters/name/name_full_model-thumb.png -->
+            <img src="/characters/boone/boone_full_model-thumb.png">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td class="group" colspan="2">Game Info</td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Crater Region</td>
+        <td class="charvalue">The Wilds</td></tr>
+      <tr class="charbody">
+        <td class="charkey">Health</td>
+        <td class="charvalue">140</td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Shotgun (DMG)</td>
+        <td class="charvalue">45</td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Sniper (DMG)</td>
+        <td class="charvalue">30</td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Special (DMG)</td>
+        <td class="charvalue">5</td>
+      </tr>
     </tbody>
   </table>
 </div>
+<!-- End of Character Info box -->
+
+<!-- Begin Character Intro -->
 <div>
   <p>Boone and his winged pal Zik are on a quest to find a Megadon – an extinct, or at least elusive, prehistoric creature. He is crater's premier Megadon tracker. His pal Zik gives him special ability to create a vortex by lending his wings.</p>
 </div>
+<!-- End Character Intro -->
+
 <br>
+
+<!-- Begin Character Story -->
 <div>
   <h2>Story</h2>
     <p>Boone Kayo lives in his outpost overlooking The Wilds at Stompy's Refuge. Him and his pal Zik are on a quest to find a Megadon. Megadons are extinct, or at least elusive, prehistoric creature. His great great grandfather was the last person to see one alive, so every generation have gone hunting for another. This trend has made the Kayo name legendary and a punch line in the wild, wild Wilds. Boone is expert tracker in many ways but he doesnt know that his pal Zik is tiny little version of the Megadon he seeks.</p>
 </div>
+<!-- End Character Story -->
+
 <br>
 
+<!-- Begin Gallery -->
 <!-- DO NOT TOUCH THE GALLERY, CONTACT SlackingVeteren IF YOU NEED TO CHANGE ANYTHING -->
 <div>
   <h2>Gallery</h2>
@@ -78,4 +119,4 @@ editor: markdown
     </a>
   </div>
 </div>
-<!-- END OF GALLERY -->
+<!-- End Gallary -->
