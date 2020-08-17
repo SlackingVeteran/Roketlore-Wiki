@@ -2,7 +2,7 @@
 title: Boone
 description: Crater's Premier Megadon Tracker
 published: true
-date: 2020-08-17T05:53:55.493Z
+date: 2020-08-17T05:54:35.311Z
 tags: 
 editor: markdown
 ---
@@ -56,7 +56,7 @@ editor: markdown
         <a class="spotlight carousel-item" href="/characters/boone/boone-outside-outpost.png">
           <img src="/characters/boone/boone-outside-outpost-w500.png">
           <div class="carousel-caption">
-            Boone with Ol' Granpappy
+            Boone infront of his outpost
           </div>
         </a>
       </div>
