@@ -2,7 +2,7 @@
 title: Blastbeard
 description: The Buccaneer from Crater's Edge
 published: true
-date: 2020-08-26T22:16:00.739Z
+date: 2020-08-26T22:58:48.515Z
 tags: 
 editor: markdown
 ---
@@ -34,7 +34,7 @@ editor: markdown
             <div class="stat-name">Health</div>
           </div>
           <div class="two-third">
-            <div class="stat-value">140</div>
+            <div class="stat-value">240</div>
           </div>
         </div>
         <div class="stat">
