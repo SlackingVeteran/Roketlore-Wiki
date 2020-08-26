@@ -2,7 +2,7 @@
 title: Izell
 description: The Fearless Hails from Gemstone Jungle
 published: true
-date: 2020-08-26T15:54:40.667Z
+date: 2020-08-26T22:45:08.650Z
 tags: 
 editor: markdown
 ---
@@ -14,59 +14,58 @@ editor: markdown
 <!-- End Character Quote -->
 
 <!-- Begin Character Info Card -->
-<div>
-  <table class="infobox character">
-    <tbody>
-      <tr>
-        <td class="group charname" colspan="2">Izell</td>
-      </tr>
-      <tr class="charimg">
-        <td colspan="2">
-          <!-- href link to full size image of the character -->
-          <!-- link format /characters/name/name_full_model.png -->
-          <!-- They are already uploaded to the server -->
-          <a class="spotlight" href="/characters/izell/izell_full_model.png">
+<div class="info-card-container">
+  <div class="wrapper">
+    <div class="info-card">
+      <div class="info-card__image info-card__image--izell">
+        <a class="spotlight" href="/characters/izell/izell_full_model.png">
             <!-- Always use 250x250 thumbnail for img src -->
             <!-- src format /characters/name/name_full_model-thumb.png -->
-            <img src="/characters/izell/izell_full_model-thumb.png">
+            <img src="/characters/izell/izell_full_model.png"/>
           </a>
-        </td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Date added:</td>
-        <td class="charvalue">14 July, 2020 (launch)</td>
-      </tr>
-      <!-- Waiting for Voice Actor confirmation from Nyxi
-      <tr class="charbody">
-        <td class="charkey">Voice Actor:</td>
-        <td class="charvalue">Melanie Minichino</td>
-      </tr>
-      -->
-      <tr>
-        <td class="group" colspan="2">Game Info</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Crater Region</td>
-        <td class="charvalue">Gemstone Jungle</td></tr>
-      <tr class="charbody">
-        <td class="charkey">Health</td>
-        <td class="charvalue">140</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Primary (DMG)</td>
-        <td class="charvalue">25</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Secondary (DMG)</td>
-        <td class="charvalue">10</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Special (DMG)</td>
-        <td class="charvalue">50</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+      </div>
+      <div class="info-card__unit-name">Izell</div>
+      <div class="info-card__region info-card__level--izell">Crater Region: Gemstone Jungle</div>
+      <!--Waiting for Voice Actor confirmation from Nyxi
+      <div class="info-card__voice info-card__level--izell">Voiced by: Melanie Minichino</div>-->
+      <div class="info-card__date info-card__level--izell">Date added: 14 July, 2020 (launch)</div>
+      <div class="info-card__unit-stats info-card__unit-stats--izell clearfix">
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Health</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">140</div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Primary</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">25<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Secondary</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">10<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat no-border">
+          <div class="one-third">
+            <div class="stat-name">Special</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">50<sup>DMG</sup></div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- end info-card-->
+  </div> <!-- end wrapper -->
+</div> <!-- end container -->
 <!-- End of Character Info box -->
 
 <!-- Begin Character Intro -->
