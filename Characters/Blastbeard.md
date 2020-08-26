@@ -2,7 +2,7 @@
 title: Blastbeard
 description: The Buccaneer from Crater's Edge
 published: true
-date: 2020-08-26T14:11:11.720Z
+date: 2020-08-26T14:12:42.019Z
 tags: 
 editor: markdown
 ---
@@ -69,7 +69,7 @@ editor: markdown
 
 <!-- Begin Character Intro -->
 <div>
-  <p>Blastbeard is piraate who is hunting different kind of treasure: first-place in the Tour! He won the Trophy once before -- but then he somehow forgot where he put the gilded thing! His memory, morals, and hearing might be shakey, but he is not a bad guy, really. Just slightly.</p>
+  <p>Blastbeard is pirate who is hunting different kind of treasure: first-place in the Tour! He won the Trophy once before -- but then he somehow forgot where he put the gilded thing! His memory, morals, and hearing might be shakey, but he is not a bad guy, really. Just slightly.</p>
 </div>
 <!-- End Character Intro -->
 
