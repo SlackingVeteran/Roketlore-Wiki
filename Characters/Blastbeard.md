@@ -2,7 +2,7 @@
 title: Blastbeard
 description: The Buccaneer from Crater's Edge
 published: true
-date: 2020-08-26T14:10:31.986Z
+date: 2020-08-26T14:11:11.720Z
 tags: 
 editor: markdown
 ---
@@ -44,22 +44,22 @@ editor: markdown
         <td class="group" colspan="2">Game Info</td>
       </tr>
       <tr class="charbody">
-        <td class="charkey">Crater Region</td>
+        <td class="charkey">Crater Region:</td>
         <td class="charvalue">Crater's Edge</td></tr>
       <tr class="charbody">
-        <td class="charkey">Health</td>
+        <td class="charkey">Health:</td>
         <td class="charvalue">240</td>
       </tr>
       <tr class="charbody">
-        <td class="charkey">Primary (DMG)</td>
+        <td class="charkey">Primary (DMG):</td>
         <td class="charvalue">30</td>
       </tr>
       <tr class="charbody">
-        <td class="charkey">Secondary (DMG)</td>
+        <td class="charkey">Secondary (DMG):</td>
         <td class="charvalue">50</td>
       </tr>
       <tr class="charbody">
-        <td class="charkey">Special (DMG)</td>
+        <td class="charkey">Special (DMG):</td>
         <td class="charvalue">40</td>
       </tr>
     </tbody>
