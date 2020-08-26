@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-26T14:12:00.661Z
+date: 2020-08-26T14:13:45.387Z
 tags: 
 editor: markdown
 ---
