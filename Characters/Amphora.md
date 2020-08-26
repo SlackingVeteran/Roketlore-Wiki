@@ -2,7 +2,7 @@
 title: Amphora
 description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-17T22:25:55.128Z
+date: 2020-08-26T13:43:39.980Z
 tags: 
 editor: markdown
 ---
@@ -65,7 +65,7 @@ editor: markdown
 
 <!-- Begin Character Intro -->
 <div>
-  <p>Amphora is a fast and fluid striker who chases her opponents and launches them out of the arena in a powerful cyclone. She is pride of Crystal Reef colony. Her rockets harnesses the power of water using her special "Diver Weapon".</p>
+  <p>Amphora is a fast and fluid striker who chases her opponents and launches them out of the arena in a powerful cyclone. She is pride of Crystal Reef colony. Her rockets harnesses the power of water using her special "Diver Weapon". She was born in an underwater world full of submarines and shimmering stones known as Crystal Reef. She was raised by her indulgent parents and their fellow scientists. Her ability to turn into liquid being is a mystery to herself. Growing up next to mysterious Star of Crater might have something to do with her abilities.</p>
 </div>
 <!-- End Character Intro -->
 
@@ -74,8 +74,9 @@ editor: markdown
 <!-- Begin Character Story -->
 <div>
   <h2>Story</h2>
-    <p>Amphora was born in an underwater world full of submarines and shimmering stones known as Crystal Reef. She was raised by her indulgent parents and their fellow scientists. Her ability to turn into liquid being is a mystery to herself. Growing up next to mysterious Star of Crater might have something to do with her abilities.</p>
-  <p>Once you get past her glam and glitter, you will discover that she is sharp minded and a penchant of painful puns. Amphora is a explorer who wants to learn the origin and secrets of the Star of Crater and understand more about its mysterious glowing energy which could maybe reveal how she came to have the ability to turn into watery sea creature</p>
+    <p>AMPHORA, the high-spirited scion of THE CRYSTAL REEF, is everything Boone Kayo is not. While Boone is a famous huntsman with a blind spot for his friend Zik, Amphora can track down any treasure or competitor in no time flat. Don’t let her aristocratic grace fool you. Yes, she’s beautiful, and true, she has the casual confidence of the supremely wealthy. But she is also brilliant – no surprise for someone who has been raised by eccentric scientist parents. She can talk fashion and fractals with equal ease, and it is because of her incongruous combination of perspectives that she wins the day.</p>
+  <p>Amphora grew up under unusual circumstances, even for the variety-pack world of Crater. She lives in THE SHIMMERING DEPTHS, a colony built on the bottom of Crater’s pocket-sized sea. Her indulgent PARENTS lead the group of geniuses who founded the settlement, known as THE CRYSTAL SOCIETY. They aren’t Mer-People, but they may as well be given how well they’ve adapted to life underwater. As you might expect with folks who ply the depths, Amphora and the Reef Dwellers are serious swimmers, and when she steps on land, her powerful leg muscles allow Amphora to leap considerable distances.</p>
+ <p>But she is really in her element, if you’ll pardon the expression, when the action moves beneath the waves. Like everyone else on the Tour, she employs a couple of high-tech weapons – in her case, a speedy CHARGED TORPEDO, as well as sneaky BOUNCY MINES which pop up out of the seabed silt, cling to her foes like lampreys, and then detonate. However, her truly mind-boggling advantage becomes clear when Amphora activates her Special Attack, HYDRO FORM, which allows her to manipulate water, which can make a lake evaporate, or direct a waterspout at her foes with the force of a fire hose!</p>
 </div>
 <!-- End Character Story -->
 
