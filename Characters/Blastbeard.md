@@ -2,7 +2,7 @@
 title: Blastbeard
 description: The Buccaneer from Crater's Edge
 published: true
-date: 2020-08-26T21:53:26.941Z
+date: 2020-08-26T21:56:58.191Z
 tags: 
 editor: markdown
 ---
@@ -18,7 +18,11 @@ editor: markdown
   <div class="wrapper">
     <div class="info-card">
       <div class="info-card__image info-card__image--blastbeard">
-        <img src="https://worldofcrater.wiki/characters/blastbeard/blastbeard_full_model.png"/>
+        <a class="spotlight" href="/characters/blastbeard/blastbeard_full_model.png">
+            <!-- Always use 250x250 thumbnail for img src -->
+            <!-- src format /characters/name/name_full_model-thumb.png -->
+            <img src="https://worldofcrater.wiki/characters/blastbeard/blastbeard_full_model.png"/>
+          </a>
       </div>
       <div class="info-card__unit-name">Blastbeard</div>
       <div class="info-card__region info-card__level--blastbeard">Crater Region: Crater's Edge</div>
