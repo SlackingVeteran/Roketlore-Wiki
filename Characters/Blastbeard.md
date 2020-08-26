@@ -2,7 +2,7 @@
 title: Blastbeard
 description: The Buccaneer from Crater's Edge
 published: true
-date: 2020-08-26T13:59:50.653Z
+date: 2020-08-26T14:07:57.682Z
 tags: 
 editor: markdown
 ---
@@ -31,6 +31,10 @@ editor: markdown
             <img src="/characters/blastbeard/blastbeard_full_model-thumb.png">
           </a>
         </td>
+      </tr>
+      <tr>
+        <td class="charkey">Date added:</td>
+        <td class="charvalue">14 July, 2020 (launch)</td>
       </tr>
       <tr>
         <td class="group" colspan="2">Game Info</td>
