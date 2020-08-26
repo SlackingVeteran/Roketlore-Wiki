@@ -2,7 +2,7 @@
 title: Amphora
 description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-26T13:44:28.495Z
+date: 2020-08-26T21:30:37.247Z
 tags: 
 editor: markdown
 ---
@@ -14,53 +14,61 @@ editor: markdown
 <!-- End Character Quote -->
 
 <!-- Begin Character Info Card -->
-<div>
-  <table class="infobox character">
-    <tbody>
-      <tr>
-        <td class="group charname" colspan="2">Amphora</td>
-      </tr>
-      <tr class="charimg">
-        <td colspan="2">
-          <!-- href link to full size image of the character -->
-          <!-- link format /characters/name/name_full_model.png -->
-          <!-- They are already uploaded to the server -->
-          <a class="spotlight" href="/characters/amphora/amphora_full_model.png">
-            <!-- Always use 250x250 thumbnail for img src -->
-            <!-- src format /characters/name/name_full_model-thumb.png -->
-            <img src="/characters/amphora/amphora_full_model-thumb.png">
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td class="group" colspan="2">Game Info</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Crater Region</td>
-        <td class="charvalue">Crystal Reef</td></tr>
-      <tr class="charbody">
-        <td class="charkey">Health</td>
-        <td class="charvalue">140</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Charged (DMG)</td>
-        <td class="charvalue">40</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Unharged (DMG)</td>
-        <td class="charvalue">20</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Secondary (DMG)</td>
-        <td class="charvalue">30</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Special (DMG)</td>
-        <td class="charvalue">39</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<div class="info-card-container">
+  <div class="wrapper">
+    <div class="info-card">
+      <div class="info-card__image info-card__image--amphora">
+        <img src="https://worldofcrater.wiki/characters/amphora/amphora_full_model.png"/>
+      </div>
+      <div class="info-card__unit-name">Mysteen Mavarak</div>
+      <div class="info-card__region info-card__level--amphora">Crater Region: Crystal Reef</div>
+      <div class="info-card__voice info-card__level--amphora">Voiced by: Courtenay Taylor</div>
+      <div class="info-card__date info-card__level--amphora">Date added: 14 July, 2020 (launch)</div>
+      <div class="info-card__unit-stats info-card__unit-stats--amphora clearfix">
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Health</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">140</div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Charged</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">40<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Uncharged</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">20<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Secondary</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">30<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat no-border">
+          <div class="one-third">
+            <div class="stat-name">Special</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">39<sup>DMG</sup></div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- end info-card-->
+  </div> <!-- end wrapper -->
+</div> <!-- end container -->
 <!-- End of Character Info box -->
 
 <!-- Begin Character Intro -->
