@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-26T21:15:08.296Z
+date: 2020-08-26T21:58:44.937Z
 tags: 
 editor: markdown
 ---
@@ -18,7 +18,11 @@ editor: markdown
   <div class="wrapper">
     <div class="info-card">
       <div class="info-card__image info-card__image--mysteen">
-        <img src="https://worldofcrater.wiki/characters/mysteen/mysteen_full_model.png"/>
+        <a class="spotlight" href="/characters/mysteen/mysteen_full_model.png">
+            <!-- Always use 250x250 thumbnail for img src -->
+            <!-- src format /characters/name/name_full_model-thumb.png -->
+            <img src="/characters/mysteen/mysteen_full_model.png"/>
+          </a>
       </div>
       <div class="info-card__unit-name">Mysteen Mavarak</div> 
       <div class="info-card__region info-card__level--mysteen">Crater Region: Conjura</div>
