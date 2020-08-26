@@ -2,7 +2,7 @@
 title: Amphora
 description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-26T21:30:37.247Z
+date: 2020-08-26T21:32:04.469Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
       <div class="info-card__image info-card__image--amphora">
         <img src="https://worldofcrater.wiki/characters/amphora/amphora_full_model.png"/>
       </div>
-      <div class="info-card__unit-name">Mysteen Mavarak</div>
+      <div class="info-card__unit-name">Amphora</div>
       <div class="info-card__region info-card__level--amphora">Crater Region: Crystal Reef</div>
       <div class="info-card__voice info-card__level--amphora">Voiced by: Courtenay Taylor</div>
       <div class="info-card__date info-card__level--amphora">Date added: 14 July, 2020 (launch)</div>
