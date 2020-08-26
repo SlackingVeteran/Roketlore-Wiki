@@ -2,7 +2,7 @@
 title: Jayto
 description: The Tour Trophy Youngblood
 published: true
-date: 2020-08-26T14:50:18.928Z
+date: 2020-08-26T14:56:45.233Z
 tags: 
 editor: markdown
 ---
@@ -45,7 +45,7 @@ editor: markdown
       </tr>
       <tr class="charbody">
         <td class="charkey">Crater Region:</td>
-        <td class="charvalue">Crater's Edge</td></tr>
+        <td class="charvalue">Boom City</td></tr>
       <tr class="charbody">
         <td class="charkey">Health:</td>
         <td class="charvalue">140</td>
