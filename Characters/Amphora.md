@@ -2,7 +2,7 @@
 title: Amphora
 description: The Pride of Crystal Reef Colony
 published: true
-date: 2020-08-26T21:32:04.469Z
+date: 2020-08-26T21:55:30.391Z
 tags: 
 editor: markdown
 ---
@@ -18,7 +18,11 @@ editor: markdown
   <div class="wrapper">
     <div class="info-card">
       <div class="info-card__image info-card__image--amphora">
-        <img src="https://worldofcrater.wiki/characters/amphora/amphora_full_model.png"/>
+        <a class="spotlight" href="/characters/jayto/jayto_full_model.png">
+            <!-- Always use 250x250 thumbnail for img src -->
+            <!-- src format /characters/name/name_full_model-thumb.png -->
+            <img src="https://worldofcrater.wiki/characters/amphora/amphora_full_model.png"/>
+          </a>
       </div>
       <div class="info-card__unit-name">Amphora</div>
       <div class="info-card__region info-card__level--amphora">Crater Region: Crystal Reef</div>
