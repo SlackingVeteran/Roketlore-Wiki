@@ -2,14 +2,14 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-17T23:26:50.627Z
+date: 2020-08-26T14:12:00.661Z
 tags: 
 editor: markdown
 ---
 
 <!-- Begin Character Quote -->
 <div class="title-quote">
-  I've got nothing up my sleeves.. except for some ROCKETS!
+  I've got nothing up my sleeves -- except for some ROCKETS!
 </div>
 <!-- End Character Quote -->
 
@@ -31,6 +31,14 @@ editor: markdown
             <img src="/characters/mysteen/mysteen_full_model-thumb.png">
           </a>
         </td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Date added:</td>
+        <td class="charvalue">14 July, 2020 (launch)</td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Voice Actor:</td>
+        <td class="charvalue">Kimberly Brooks</td>
       </tr>
       <tr>
         <td class="group" colspan="2">Game Info</td>
