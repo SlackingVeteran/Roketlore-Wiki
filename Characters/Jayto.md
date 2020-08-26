@@ -2,7 +2,7 @@
 title: Jayto
 description: The Tour Trophy Youngblood
 published: true
-date: 2020-08-26T15:08:53.985Z
+date: 2020-08-26T22:14:33.899Z
 tags: 
 editor: markdown
 ---
@@ -14,57 +14,57 @@ editor: markdown
 <!-- End Character Quote -->
 
 <!-- Begin Character Info Card -->
-<div>
-  <table class="infobox character">
-    <tbody>
-      <tr>
-        <td class="group charname" colspan="2">Jayto</td>
-      </tr>
-      <tr class="charimg">
-        <td colspan="2">
-          <!-- href link to full size image of the character -->
-          <!-- link format /characters/name/name_full_model.png -->
-          <!-- They are already uploaded to the server -->
-          <a class="spotlight" href="/characters/jayto/jayto_full_model.png">
+<div class="info-card-container">
+  <div class="wrapper">
+    <div class="info-card">
+      <div class="info-card__image info-card__image--jayto">
+        <a class="spotlight" href="/characters/jayto/jayto_full_model.png">
             <!-- Always use 250x250 thumbnail for img src -->
             <!-- src format /characters/name/name_full_model-thumb.png -->
-            <img src="/characters/jayto/jayto_full_model-thumb.png">
+            <img src="/characters/jayto/jayto_full_model.png"/>
           </a>
-        </td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Date added:</td>
-        <td class="charvalue">14 July, 2020 (launch)</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Voice Actor:</td>
-        <td class="charvalue">James Arnold Taylor</td>
-      </tr>
-      <tr>
-        <td class="group" colspan="2">Game Info</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Crater Region:</td>
-        <td class="charvalue">Boom City</td></tr>
-      <tr class="charbody">
-        <td class="charkey">Health:</td>
-        <td class="charvalue">140</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Primary (DMG):</td>
-        <td class="charvalue">25</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Secondary (DMG):</td>
-        <td class="charvalue">60</td>
-      </tr>
-      <tr class="charbody">
-        <td class="charkey">Special (DMG):</td>
-        <td class="charvalue">35</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+      </div>
+      <div class="info-card__unit-name">Jayto Keen</div>
+      <div class="info-card__region info-card__level--jayto">Crater Region: Boom City</div>
+      <div class="info-card__voice info-card__level--jayto">Voiced by: James Arnold Taylor</div>
+      <div class="info-card__date info-card__level--jayto">Date added: 14 July, 2020 (launch)</div>
+      <div class="info-card__unit-stats info-card__unit-stats--jayto clearfix">
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Health</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">140</div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Primary</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">25<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="one-third">
+            <div class="stat-name">Secondary</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">60<sup>DMG</sup></div>
+          </div>
+        </div>
+        <div class="stat no-border">
+          <div class="one-third">
+            <div class="stat-name">Special</div>
+          </div>
+          <div class="two-third">
+            <div class="stat-value">35<sup>DMG</sup></div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- end info-card-->
+  </div> <!-- end wrapper -->
+</div> <!-- end container -->
 <!-- End of Character Info box -->
 
 <!-- Begin Character Intro -->
