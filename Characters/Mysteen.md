@@ -2,7 +2,7 @@
 title: Mysteen
 description: The Mystical Illusionist
 published: true
-date: 2020-08-26T19:46:45.790Z
+date: 2020-08-26T21:15:08.296Z
 tags: 
 editor: markdown
 ---
@@ -54,7 +54,7 @@ editor: markdown
             <div class="stat-name">Special</div>
           </div>
           <div class="two-third">
-            <div class="stat-value">8<sup>DMG</sup> (per shot avg.)</div>
+            <div class="stat-value">8<sup>DMG</sup> (per shot avg)</div>
           </div>
         </div>
       </div>
