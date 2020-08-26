@@ -2,7 +2,7 @@
 title: Blastbeard
 description: The Buccaneer from Crater's Edge
 published: true
-date: 2020-08-26T14:07:57.682Z
+date: 2020-08-26T14:10:31.986Z
 tags: 
 editor: markdown
 ---
@@ -32,9 +32,13 @@ editor: markdown
           </a>
         </td>
       </tr>
-      <tr>
+      <tr class="charbody">
         <td class="charkey">Date added:</td>
         <td class="charvalue">14 July, 2020 (launch)</td>
+      </tr>
+      <tr class="charbody">
+        <td class="charkey">Voice Actor:</td>
+        <td class="charvalue">Dave B. Mitchell</td>
       </tr>
       <tr>
         <td class="group" colspan="2">Game Info</td>
