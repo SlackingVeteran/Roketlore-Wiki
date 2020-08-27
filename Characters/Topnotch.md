@@ -2,7 +2,7 @@
 title: Topnotch
 description: The Hero of the RocketBot Uprising
 published: true
-date: 2020-08-27T00:04:25.755Z
+date: 2020-08-27T00:13:23.900Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
         <a class="spotlight" href="/characters/plink/plink_full_model.png">
             <!-- Always use 250x250 thumbnail for img src -->
             <!-- src format /characters/name/name_full_model-thumb.png -->
-            <img src="https://worldofcrater.wiki/characters/topnotch/topnotch_full_model.png"/>
+            <img src="/characters/topnotch/topnotch_full_model.png"/>
           </a>
       </div>
       <div class="info-card__unit-name">Rindle Topnotch</div>
