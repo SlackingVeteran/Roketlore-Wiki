@@ -2,7 +2,7 @@
 title: Topnotch
 description: The Hero of the RocketBot Uprising
 published: true
-date: 2020-08-27T00:13:23.900Z
+date: 2020-08-27T16:41:38.752Z
 tags: 
 editor: markdown
 ---
@@ -18,7 +18,7 @@ editor: markdown
   <div class="wrapper">
     <div class="info-card">
       <div class="info-card__image info-card__image--topnotch">
-        <a class="spotlight" href="/characters/plink/plink_full_model.png">
+        <a class="spotlight" href="/characters/topnotch/topnotch_full_model.png">
             <!-- Always use 250x250 thumbnail for img src -->
             <!-- src format /characters/name/name_full_model-thumb.png -->
             <img src="/characters/topnotch/topnotch_full_model.png"/>
@@ -64,7 +64,8 @@ editor: markdown
       </div>
     </div> <!-- end info-card-->
   </div> <!-- end wrapper -->
-</div> <!-- end container --><!-- End of Character Info box -->
+</div> <!-- end container -->
+<!-- End of Character Info box -->
 
 <!-- Begin Character Intro -->
 <div>
