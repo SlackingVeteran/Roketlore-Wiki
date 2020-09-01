@@ -2,7 +2,7 @@
 title: Home of Rocket Arena Lore
 description: Wiki Home for all Rocket Arena Lore, Hidden Details and Easter Eggs
 published: true
-date: 2020-08-29T04:40:01.765Z
+date: 2020-09-01T02:02:00.983Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,6 @@ editor: markdown
 The Rocket Arena wiki is designed to collect tidbits of information on various maps and story behind each competitors that have joined the Rocket Championship tour. The content of this wiki is focused on the storyline and lore of World of Crater. This wiki is maintained by Rocket Arena Community members and is not the official Wiki page for Rocket Arena.
 
 ## Background
-Mysterious ancient rockets may have been responsible for the original explosion that created the World of Crater. These ancient rockets are can be found across multiple regions of the crater. From what is known these rockets played big part in creation of the crater and will again in its future.
+Mysterious ancient rockets may have been responsible for the original explosion that created the World of Crater. These ancient rockets can be found across multiple regions of the crater. From what is known these rockets played big part in creation of the crater and will again in its future.
 
 Each of the [Characters](https://worldofcrater.wiki/Characters) and [Regions](https://worldofcrater.wiki/Regions) in the world of crater have their own story, and reason why each competitors joined the Rocket Championships Tour. Story behind each of the characters and maps will be updated as they are discoved and also revealed through the Live Service of the game which includes upcoming mythic events `Crystal Reef Mythic` and `Fort Rocket Mythic`.
