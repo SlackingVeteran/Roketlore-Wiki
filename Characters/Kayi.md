@@ -2,7 +2,7 @@
 title: Kayi
 description: General of the Realm
 published: true
-date: 2020-08-26T22:56:17.306Z
+date: 2020-09-25T20:18:37.358Z
 tags: 
 editor: markdown
 ---
@@ -42,7 +42,7 @@ editor: markdown
             <div class="stat-name">Charged</div>
           </div>
           <div class="two-third">
-            <div class="stat-value">35<sup>DMG</sup></div>
+            <div class="stat-value">40<sup>DMG</sup></div>
           </div>
         </div>
         <div class="stat">
